@@ -1,7 +1,7 @@
 NAME
 ====
 
-FerNANDo - Implementation of FerNANDo programming language in perl6
+FerNANDo - Implementation of [FerNANDo](https://esolangs.org/wiki/FerNANDo) programming language in perl6
 
 SYNOPSIS
 ========
