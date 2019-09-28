@@ -1,7 +1,7 @@
 NAME
 ====
 
-FerNANDo - blah blah blah
+FerNANDo - Implementation of FerNANDo programming language in perl6
 
 SYNOPSIS
 ========
