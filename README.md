@@ -6,14 +6,17 @@ FerNANDo - blah blah blah
 SYNOPSIS
 ========
 
-```perl6
-use FerNANDo;
+```
+% bin/ferNANDo.p6
+Usage:
+  bin/ferNANDo.p6 -e=<Str> [--debug]
+  bin/ferNANDo.p6 [--debug] <file>
 ```
 
 DESCRIPTION
 ===========
 
-FerNANDo is ...
+FerNANDo is a exoteric programing language (https://esolangs.org/wiki/FerNANDo).
 
 AUTHOR
 ======
