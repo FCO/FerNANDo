@@ -1,0 +1,93 @@
+x x x
+h h h
+x
+z z x z z z a a
+z z x z z z b b
+z z x z z z c c
+z z x z z z d d
+z z x z z z e e 
+z z x z z z f f
+z z x z z z g g
+z z x z z z h h
+z z z z x z x z
+i a a
+j b b
+o i j
+i null null
+j o o
+k null j
+l i o
+aa k l
+i b b
+j c c
+o i j
+i a a
+j o o
+k a j
+l i o
+bb k l
+i c c
+j d d
+o i j
+i b b
+j o o
+k b j
+l i o
+cc k l
+i d d
+j e e
+o i j
+i c c
+j o o
+k c j
+l i o
+dd k l
+i e e
+j f f
+o i j
+i d d
+j o o
+k d j
+l i o
+ee k l
+i f f
+j g g
+o i j
+i e e
+j o o
+k e j
+l i o
+ff k l
+i g g
+j h h
+o i j
+i f f
+j o o
+k f j
+l i o
+gg k l
+i h h
+j null null
+o i j
+i g g
+j o o
+k g j
+l i o
+hh k l
+a aa aa
+a a a
+b bb bb
+b b b
+c cc cc
+c c c
+d dd dd
+d d d
+e ee ee
+e e e
+f ff ff
+f f f
+g gg gg
+g g g
+h hh hh
+h h h
+x

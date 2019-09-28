@@ -1,0 +1,46 @@
+not sure, but right now i'm guessing you're_not_paper you're_scissors
+you're_paper not you're_not_paper
+you're_not_scissors not you're_scissors
+you're_rock you're_not_paper you're_not_scissors
+you're_rock you're_rock
+
+o_shi-
+i'm_not_paper right ?
+i'm_scissors right ?
+i'm_paper not i'm_not_paper
+i'm_not_scissors not i'm_scissors
+o_shi- i'm_paper i'm_scissors
+o_shi- o_shi-
+o_shi-
+i'm_rock i'm_not_paper i'm_not_scissors
+i'm_rock i'm_rock
+
+print right now but only if i'm_not_paper i'm_scissors
+print a newline here, not more, not less
+
+i_win_if i'm_scissors you're_paper
+or_if i'm_rock you're_scissors
+or_even_if i'm_paper you're_rock
+
+i_win i_win_if or_if
+i_win i_win
+i_win or_even_if
+
+i_lose_if i'm_paper you're_scissors
+or_if i'm_scissors you're_rock
+or_even_if i'm_rock you're_paper
+
+i_lose i_lose_if or_if
+i_lose i_lose
+i_lose or_even_if
+
+i_don't_win not i_win
+i_don't_lose not i_lose
+we_tie i_don't_win i_don't_lose
+we_tie we_tie
+we_don't_tie not we_tie
+
+print now if i_win i_lose not i_win i_win
+print but not we_tie we_don't_tie i_lose i_don't_win we_don't_tie
+print right now i_lose i_win i_win we_don't_tie i_don't_win
+print i_don't_win but we_tie or i_don't_win we_tie now
